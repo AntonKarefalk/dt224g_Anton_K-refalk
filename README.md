@@ -6,7 +6,7 @@ Ingen CSS eller Javascript användes för projektet, bara HTML och bilder.
 Detta projekt har publicerats till tre olika webbsidor:
 Netlify: [https://app.netlify.com/projects/dt224g-anton-k-refalk/overview](https://dt224g-anton-k-refalk.netlify.app)
 Vercel (Problem kan finnas): [https://vercel.com/dt-244-g/dt224g-anton-k-refalk/5jo7oNGwKxSMDkZaN5EvTxXWedUV](https://dt224g-anton-k-refalk-li1pd66jp-dt-244-g.vercel.app)
-Render: https://dashboard.render.com/static/srv-dai106cs728c73du9ne0
+Render: [https://dashboard.render.com/static/srv-dai106cs728c73du9ne0](https://dt224g-anton-k-refalk-1.onrender.com)
 
 ## Svar
 Git add lägger till ändringarna på staging området medan Git commit sparar dessa ändringar på GitHub.
