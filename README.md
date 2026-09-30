@@ -5,7 +5,7 @@ Ingen CSS eller Javascript användes för projektet, bara HTML och bilder.
 ## Publicering
 Detta projekt har publicerats till tre olika webbsidor:
 Netlify: [https://app.netlify.com/projects/dt224g-anton-k-refalk/overview](https://dt224g-anton-k-refalk.netlify.app)
-Render: [https://dashboard.render.com/static/srv-dai106cs728c73du9ne0](https://dt224g-anton-k-refalk-1.onrender.com)
+Static.app: [dtgantonkarefalk.staticdomains.app](https://dtgantonkarefalk.staticdomains.app/index)
 
 ## Svar
 Git add lägger till ändringarna på staging området medan Git commit sparar dessa ändringar på GitHub.
